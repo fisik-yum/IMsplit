@@ -1,0 +1,8 @@
+IMsplit
+
+imsplit is a script written to divide a picture spread into multiple nxn subunits quickly, to switch between sets for "aesthetic" purposes.
+This script makes use of the imagemagick convert  program
+
+Usage ./imsplit.sh [-w width ] [-s sections] [-i input file]
+
+This program is licensed under the GPL, version 3 and only the GPL, version 3
